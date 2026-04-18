@@ -9,3 +9,5 @@ array list :
 4) https://github.com/user-attachments/assets/e361baa9-708d-4280-a506-fcfdbcac6520
 5) https://github.com/user-attachments/assets/3b7f200b-26ae-4aa8-8ce0-a441cb939455
 
+linkedlist :
+1) https://github.com/user-attachments/assets/411fd8fe-2741-46f3-b60c-05b3214b096b
