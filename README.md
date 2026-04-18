@@ -11,3 +11,5 @@ array list :
 
 linkedlist :
 1) https://github.com/user-attachments/assets/411fd8fe-2741-46f3-b60c-05b3214b096b
+2) https://github.com/user-attachments/assets/d21f0981-7b0e-488b-a823-b057cdf358c0
+3) 
