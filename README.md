@@ -24,3 +24,6 @@ linkedlist :
 
 3a) StringOperationDemo:
  https://github.com/user-attachments/assets/74b50c31-1fe1-4d0c-8b21-f1c8ac670378
+
+3b) StringExerciseProgram
+1) https://github.com/user-attachments/assets/016b2678-ef23-4c63-9e30-c4116e9eb704
