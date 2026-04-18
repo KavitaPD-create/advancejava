@@ -27,3 +27,5 @@ linkedlist :
 
 3b) StringExerciseProgram
 1) https://github.com/user-attachments/assets/016b2678-ef23-4c63-9e30-c4116e9eb704
+2) https://github.com/user-attachments/assets/99a7f29b-de15-42d6-9e83-050025144f4a
+
