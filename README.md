@@ -16,4 +16,7 @@ linkedlist :
 4) https://github.com/user-attachments/assets/3b160624-31cb-4c3f-9e01-6f37fe9868ae
 5) https://github.com/user-attachments/assets/eba5e5d6-c1d0-4a85-abc4-80715488c704
 
- 2a) https://github.com/user-attachments/assets/8814c495-a1ce-4702-a421-7be7c10c00ca
+ 2a) StringOperation:
+ https://github.com/user-attachments/assets/8814c495-a1ce-4702-a421-7be7c10c00ca
+ 2b) StringOpertionDemo:
+ https://github.com/user-attachments/assets/6b7cbd2b-8c7e-45da-8573-10bd09a56037
