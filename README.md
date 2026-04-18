@@ -13,4 +13,4 @@ linkedlist :
 1) https://github.com/user-attachments/assets/411fd8fe-2741-46f3-b60c-05b3214b096b
 2) https://github.com/user-attachments/assets/d21f0981-7b0e-488b-a823-b057cdf358c0
 3) https://github.com/user-attachments/assets/3e5a089d-e4f3-463c-9460-58feacbc8f39
-
+4) https://github.com/user-attachments/assets/3b160624-31cb-4c3f-9e01-6f37fe9868ae
