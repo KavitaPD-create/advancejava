@@ -21,3 +21,6 @@ linkedlist :
  
  2b) PerformanceTest:
  https://github.com/user-attachments/assets/6b7cbd2b-8c7e-45da-8573-10bd09a56037
+
+3a) StringOperationDemo:
+ https://github.com/user-attachments/assets/74b50c31-1fe1-4d0c-8b21-f1c8ac670378
