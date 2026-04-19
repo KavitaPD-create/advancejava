@@ -32,4 +32,9 @@ linkedlist :
 2) CountSubString : https://github.com/user-attachments/assets/99a7f29b-de15-42d6-9e83-050025144f4a
 3) Reverse String : https://github.com/user-attachments/assets/ce8d7cb7-ce44-45e1-8e2f-834a50de4191
 4) PalindromeCheck: https://github.com/user-attachments/assets/d09162f7-141e-459b-b5f9-95ad34420e74
-5)
+5) RemoveWhiteSpace : https://github.com/user-attachments/assets/0eaee5bf-0e28-41ac-b445-13702a57ba9c
+
+
+
+
+
