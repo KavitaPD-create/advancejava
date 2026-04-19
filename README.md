@@ -39,7 +39,14 @@ linkedlist :
 4b) CountryButton : https://github.com/user-attachments/assets/ba61c722-86fb-490e-9a87-b8b947c67812
 
 5a) countrylist : https://github.com/user-attachments/assets/0b0ec686-6c62-44f7-a0b4-9e531c5d0af2
+
 5b) ColorsTabs : https://github.com/user-attachments/assets/b45dc031-c46f-47bd-a440-ccb983cabb06
+
+5c) CountryCapitals : https://github.com/user-attachments/assets/6ceaa721-047c-49d4-8b45-a0f29baea75e
+
+5d) ColorTabs1 : https://github.com/user-attachments/assets/6e35f9d3-871e-4d5c-9903-8688b4dfb2d4
+
+
 
 
 
